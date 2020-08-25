@@ -1,4 +1,4 @@
-# terraform-v0.13-testdrive
+# terraform-v0.13-test-drive
 
 Templates for testing some of the [features introduced in Terraform v0.13.0](https://github.com/hashicorp/terraform/releases/tag/v0.13.0). Have a look at [`main.tf`](./main.tf) to see what features are being tested.
 
